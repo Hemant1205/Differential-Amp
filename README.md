@@ -8,7 +8,7 @@ In modern electronics, differential amplifiers play a crucial role in communicat
 
 **Circuit 1** <br>
 
-![exp3c](https://github.com/user-attachments/assets/cc3bf852-bada-4373-87e6-2b139cfb7672)
+![exp3c](https://github.com/user-attachments/assets/cc3bf852-bada-4373-87e6-2b139cfb7672
 
 
 **Step 1:Dc analysis design Rd and Rss**
